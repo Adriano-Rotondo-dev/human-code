@@ -80,6 +80,3 @@ RIPETI FINCHE LIBRO NON è NEL CARRELLO
     - Acquistiamo il regalo a Silvia
 
 FINE RIPETI
-
-
-
